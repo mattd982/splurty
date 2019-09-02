@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass');
 @import "bootstrap";
 
 .clear {
@@ -38,6 +39,8 @@
   color: black;
   font-size: 25px;
    border-bottom: 1px solid #0046E7;
+   font-family: 'PT Serif', serif;
+   font-weight: bold;
 }
 
 header {
@@ -46,4 +49,16 @@ header {
 
 hr {
   clear:both;
+}
+
+h1 {
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: 'PT Serif', serif;
+  font-weight: 600;
+  letter-spacing: -1.5px;
 }
