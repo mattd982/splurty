@@ -15,9 +15,12 @@ end
   end
     redirect_to root_path
     end
-     private
+    
+    def about
+    end
+     
+    private
 
-  def quote_params
-    params.require(:quote).permit(:saying, :author)
+    def quote_params
+      params.require(:quote).permit(:saying, :author)
   end
-end
