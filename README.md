@@ -1,24 +1,7 @@
-# README
+This web app is a quote generator that allows users to add quotes and displays those quotes randomly.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://splurty-ice-water.herokuapp.com/
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Clicing the red bubble on the top left and the link on the bottom left will cycle through quotes randomly.
+* The 'About' link will take you to a page dsiplaying a little auto biography of the creator.
+* The 'Contribution' link will allow you to add a quote and an author. Simply just start typing in the box then click create.
